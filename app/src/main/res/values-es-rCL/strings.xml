@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="price_text">Monto total de la cuenta</string>
+    <string name="tip_percentage">Porcentaje de la propina</string>
+    <string name="tip">Propina</string>
+    <string name="total">Total</string>
+</resources>
